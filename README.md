@@ -1,5 +1,5 @@
 # AC-DC Thunderstruck
-AC-DC well know ThunderStruck
+AC-DC well known ThunderStruck
 
 ### USB flash drive requirements
 - Must contain a base-level folder called "LightShow" (without quotation marks and case sensitive).
