@@ -1,5 +1,9 @@
 # AC-DC Thunderstruck
-AC-DC well known ThunderStruck
+AC-DC well known ThunderStruck. Duration was limited to 1:04.
+
+FSEQ valided:
+Found 3236 frames, step time of 20 ms for a total duration of 0:01:04.720000.
+Used 99.85% of the available memory
 
 ### USB flash drive requirements
 - Must contain a base-level folder called "LightShow" (without quotation marks and case sensitive).
