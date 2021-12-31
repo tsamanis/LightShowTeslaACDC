@@ -1,5 +1,5 @@
 # AC-DC Thunderstruck
-AC-DC well known ThunderStruck. Duration was limited to 1:04.
+AC-DC well known ThunderStruck. Duration was limited to 1:04. Various timigs tracks added with the help of Audacity
 
 FSEQ valided:
 Found 3236 frames, step time of 20 ms for a total duration of 0:01:04.720000.
